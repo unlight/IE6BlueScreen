@@ -1,0 +1,3 @@
+[submodule "IE6Bluescreen"]
+	path = IE6Bluescreen
+	url = https://github.com/DevDavido/IE6Bluescreen.git
