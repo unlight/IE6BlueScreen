@@ -5,9 +5,8 @@ $PluginInfo['IE6BlueScreen'] = array(
 	'Description' => "Show's a bluescreen instead the page for IE6 browsers.",
 	'Version' => '1.00',
 	'Date' => 'Autumn 2011',
-	'Author' => 'Unknown',
-	'AuthorEmail' => 'noreply@example.com',
-	'AuthorUrl' => 'http://www.example.com'
+	'Author' => 'IE6BlueScreen',
+	'AuthorUrl' => 'https://github.com/unlight/IE6BlueScreen'
 );
 
 class IE6BluescreenPlugin implements Gdn_IPlugin {
