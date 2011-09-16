@@ -3,7 +3,7 @@
 $PluginInfo['IE6BlueScreen'] = array(
 	'Name' => 'IE6 Blue Screen',
 	'Description' => "Show's a bluescreen instead the page for IE6 browsers.",
-	'Version' => '1.01',
+	'Version' => '1.02',
 	'Date' => 'Autumn 2011',
 	'Author' => 'IE6BlueScreen',
 	'AuthorUrl' => 'https://github.com/unlight/IE6BlueScreen'
